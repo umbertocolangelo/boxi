@@ -1,4 +1,4 @@
-# boxi
+# Boxi
 
 A Flutter application prototype made for the course "E-Business and Enterpreneurship" at Berliner Hochschule für Technik (BHT).
 
