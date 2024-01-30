@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398980510876",
+    "project_id": "boxi-be572",
+    "storage_bucket": "boxi-be572.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398980510876:android:533da283ee0ffc3e3e6959",
+        "android_client_info": {
+          "package_name": "com.example.boxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB48LjKUqdeESnHbA5kl5lX_e8iRZCvPt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
