@@ -11,7 +11,8 @@ class DirectionsPage extends StatefulWidget {
   final String label;
   final LatLng lockerLocation;
 
-  final LatLng initialLocation = const LatLng(52.513192, 13.438127);
+  final LatLng FMP = const LatLng(52.513192, 13.438127);
+  final LatLng initialLocation = const LatLng(52.543332, 13.350714);
 
   DirectionsPage({required this.label, required this.lockerLocation});
 
