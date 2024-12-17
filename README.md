@@ -1,18 +1,3 @@
 # Boxi
 
-A Flutter application prototype made for the course "E-Business and Enterpreneurship" at Berliner Hochschule für Technik (BHT).
-
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Boxi
+A Flutter application prototype developed for the "E-Business and Entrepreneurship" course at Berliner Hochschule für Technik (BHT). The app allows users to book smart locker services for secure storage of personal belongings and features an innovative delivery option to transfer items between locker points across the city. Leveraging Firebase for real-time database management and Google Maps API for dynamic visualization of service locations, the app offers a seamless and interactive user experience.
