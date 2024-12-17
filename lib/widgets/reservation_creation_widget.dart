@@ -379,7 +379,7 @@ class _ReservationCreationWidgetState extends State<ReservationCreationWidget> {
     return ElevatedButton(
       //style
       style: ElevatedButton.styleFrom(
-        primary: Colors.black,
+        backgroundColor: Colors.black,
         padding: const EdgeInsets.all(10),
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(10.0),

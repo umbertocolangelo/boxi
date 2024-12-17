@@ -321,7 +321,7 @@ class _ReservationDetailsPageState extends State<ReservationDetailsPage> {
             //cancel reservation button
             ElevatedButton(
                 style: ElevatedButton.styleFrom(
-                  primary: Colors.red,
+                  backgroundColor: Colors.red,
                   shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(10)),
                 ),
